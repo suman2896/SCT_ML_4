@@ -36,7 +36,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hand-gesture-recognition.git
+git clone https://github.com/suman2896/SCT_ML_4.git
 cd hand-gesture-recognition
 ```
 
